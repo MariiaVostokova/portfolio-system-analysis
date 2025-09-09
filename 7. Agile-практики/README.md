@@ -1,3 +1,4 @@
 ## Agile-практики
 Цель: на основе имеющейся информации составить карту пользовательских историй и выделить на ней MVP, который поможет быстро проверить гипотезы.
-- [https://drive.google.com/file/d/1YbrgmUiMnrGPuOL8rBii9Zp3yxpd08c4/view?usp=sharing] - карта пользовательских историй.
+- [Карта пользовательсских историй](https://drive.google.com/file/d/1YbrgmUiMnrGPuOL8rBii9Zp3yxpd08c4/view?usp=sharing).
+
