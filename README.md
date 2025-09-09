@@ -1,7 +1,7 @@
 # ПОРТФОЛИО
 ## Системный аналитик
 ## Привет! Меня зовут Востокова Мария, ищу работу системным аналитиком/бизнес аналитиком.
-## <u>[Контакты](https://drive.google.com/file/d/1sC916TzrFLStVIWfvITVlTpL6H-V8N_T/view?usp=sharing)</u>
+## <u>[Контакты](https://drive.google.com/file/d/1LQ_5TxMtPHbqv0MdkNKCYfVjsjfK-zD8/view?usp=sharing)</u>
 # Краткое содержание проектов «Яндекс практикум»
 1. Разработка требований
    1. Разработка UML Use Case диаграммы и детализация сценариев. 
